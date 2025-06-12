@@ -1,5 +1,7 @@
 # Group Work
 
+My guidelines are informal and unofficial. Formal guidelines are [here](https://www.atu.ie/app/uploads/2024/10/academic-integrity-policy.pdf).
+
 Many assignments on this program require group work. It is essential that you learn how to work effectively with others, in a co-operative and beneficial manner. When an orchestra plays together, it has a sound that instruments could not recreate if played individually. We call this benefit of a complex system an emergent property; that is what we are trying to achieve.
 
 As you are aware, every time you submit work, you use a cover sheet which declares this work to be your own. We need to clearly understand the parameters which allow us to work together, but to submit separate work.
