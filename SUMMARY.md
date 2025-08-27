@@ -9,4 +9,3 @@
 * [Group Work](group-work.md)
 * [Using the Internet and AI](using-the-internet-and-ai.md)
 * [Connecting to the internet](connecting-to-the-internet.md)
-* [Computer advice](computer-advice.md)
