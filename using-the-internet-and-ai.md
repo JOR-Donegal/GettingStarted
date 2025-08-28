@@ -8,7 +8,11 @@ Just about every professional I know will do an internet search when they are tr
 
 Absolutely!
 
-You are never to cut and paste from an Internet source or and AI application. Use them for ideas only.\
+You are never to cut and paste from an Internet source or an AI application. Use them for ideas only.\
 At the end of some modules, I will demonstrate how to do this in a way that should be acceptable. Until I have done so, DO NOT USE THESE TOOLS!!
+
+In early 2025, one of my research collaborators asked me to write a parser for a domain specific language (DSL). To get an alpha version of code running took me a half day. He got an alpha version in 10 minutes using ChatGPT4. We tested them.
+
+My version worked!&#x20;
 
 Note that if you use an answer from an AI tool and another user uses the same tool, your answers will be indistinguishable and treated as probable plagiarism.
