@@ -16,3 +16,5 @@ These modules assume no previous experience and are intended for delivery on L9 
 You are expected to achieve mastery over the duration of the module, do not underestimate the effort required.
 
 We deliver material via a Virtual Learning Environment (VLE), currently Blackboard.
+
+Where teaching resources are provided, they will be deleted or removed in August each year. If you need access to images or environments after 15th August, you need to discuss with your lecturer directly.
